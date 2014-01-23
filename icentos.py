@@ -1,6 +1,7 @@
 #!/usr/bin/python
 #
 # by ThePracticalOne @stackoverflow
+# http://stackoverflow.com/questions/10745138/python-paramiko-ssh
 #
 # adapted by lois g * january 2014
 #
