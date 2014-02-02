@@ -3,6 +3,8 @@
 # check mongodb replica sets
 # alexis_g * feb 2014
 
+# NOTE: as of feb 1, 2014, indentation here is incorrect and possibly syntax
+
 import pymongo
 from pymongo import MongoClient
 import datetime
